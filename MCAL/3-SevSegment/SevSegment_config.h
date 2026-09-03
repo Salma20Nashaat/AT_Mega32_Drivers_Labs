@@ -1,0 +1,10 @@
+#ifndef _SEVSEGMENT_CONFIG_H_
+#define _SEVSEGMENT_CONFIG_H_
+ 
+ 
+#define SEVSEG_PORT     DPORTC
+
+#define SEVSEG_COMMON_ANODE   0
+#define SEVSEG_COMMON_CATHODE 1
+ 
+#endif
