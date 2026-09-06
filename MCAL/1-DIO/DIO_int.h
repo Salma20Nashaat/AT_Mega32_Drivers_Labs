@@ -1,6 +1,6 @@
 #ifndef _DIO_INTERFACE_H_
 #define _DIO_INTERFACE_H_
-
+#include "STD_TYPES.h"
 #define OUTPUT 1
 #define INPUT  0
 
