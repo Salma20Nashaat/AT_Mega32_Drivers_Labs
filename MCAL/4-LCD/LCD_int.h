@@ -5,8 +5,9 @@
 
 void LCD_void_init(void);
 void LCD_void_SendChar(u8 character);
-void LCD_SendCommand(u8 command);
-void LCD_SendString(u8 *str);
-void LCD_voidSendNumber(u8 num);
+void LCD_Send_Command(u8 command);
+void LCD_Send_String(u8 *str);
+void LCD_void_SendNumber(u32 num);
+void LCD_void_GoToXY(u8 Row, u8 Col);
 
 #endif
