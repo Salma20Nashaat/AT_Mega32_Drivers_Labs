@@ -20,8 +20,7 @@
 u8 counter = 0;
 
 int main(void)
-{   MCUCSR |=(1<<JTD);
-	MCUCSR |=(1<<JTD);
+{  
 	DIO_voidSetPinDirection(PORTC,PIN0,OUTPUT);
 	 voidTimerInit();
 	 initExternalInterupts();
