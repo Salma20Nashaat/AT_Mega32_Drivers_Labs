@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A16919E9-7371-44D1-B6D7-20DCB59BA489}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Servies\BIT_MATH.h = ..\..\Servies\BIT_MATH.h
+		DIO_config.h = DIO_config.h
+		DIO_int.h = DIO_int.h
+		DIO_private.h = DIO_private.h
+		DIO_prog.c = DIO_prog.c
+		..\8-INTERRUPT\INTERRUPT_config.h = ..\8-INTERRUPT\INTERRUPT_config.h
+		..\8-INTERRUPT\INTERRUPT_int.h = ..\8-INTERRUPT\INTERRUPT_int.h
+		..\8-INTERRUPT\INTERRUPT_private.h = ..\8-INTERRUPT\INTERRUPT_private.h
+		..\8-INTERRUPT\INTERRUPT_prog.c = ..\8-INTERRUPT\INTERRUPT_prog.c
+		..\..\Servies\STD_TYPES.h = ..\..\Servies\STD_TYPES.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
